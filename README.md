@@ -8,4 +8,6 @@ there are 2 ways to start using Vue. You can import the cdn or you can load it f
 The cli install creates a set up very similar to Reat.js.
 
 ## First Build
-[link][https://codepen.io/TChase44/pen/pwqJOJ]
+https://codepen.io/TChase44/pen/pwqJOJ
+
+This was the project I attempted to recreate using the Vue cli setup
